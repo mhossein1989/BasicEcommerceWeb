@@ -1,0 +1,17 @@
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\bin\Debug\net5.0\SadeghiBasicMarket.Application.deps.json
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\bin\Debug\net5.0\SadeghiBasicMarket.Application.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\bin\Debug\net5.0\ref\SadeghiBasicMarket.Application.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\bin\Debug\net5.0\SadeghiBasicMarket.Application.pdb
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\bin\Debug\net5.0\SadeghiBasicMarket.Common.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\bin\Debug\net5.0\SadeghiBasicMarket.Domain.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\bin\Debug\net5.0\SadeghiBasicMarket.Common.pdb
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\bin\Debug\net5.0\SadeghiBasicMarket.Domain.pdb
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\obj\Debug\net5.0\SadeghiBasicMarket.Application.csproj.AssemblyReference.cache
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\obj\Debug\net5.0\SadeghiBasicMarket.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\obj\Debug\net5.0\SadeghiBasicMarket.Application.AssemblyInfoInputs.cache
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\obj\Debug\net5.0\SadeghiBasicMarket.Application.AssemblyInfo.cs
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\obj\Debug\net5.0\SadeghiBasicMarket.Application.csproj.CoreCompileInputs.cache
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\obj\Debug\net5.0\SadeghiBasicMarket.Application.csproj.CopyComplete
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\obj\Debug\net5.0\SadeghiBasicMarket.Application.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\obj\Debug\net5.0\ref\SadeghiBasicMarket.Application.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Application\obj\Debug\net5.0\SadeghiBasicMarket.Application.pdb

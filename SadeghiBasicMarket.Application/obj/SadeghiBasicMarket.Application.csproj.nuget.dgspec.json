@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Application\\SadeghiBasicMarket.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Application\\SadeghiBasicMarket.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Application\\SadeghiBasicMarket.Application.csproj",
+        "projectName": "SadeghiBasicMarket.Application",
+        "projectPath": "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Application\\SadeghiBasicMarket.Application.csproj",
+        "packagesPath": "C:\\Users\\hosseinsa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hosseinsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Common\\SadeghiBasicMarket.Common.csproj": {
+                "projectPath": "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Common\\SadeghiBasicMarket.Common.csproj"
+              },
+              "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Domain\\SadeghiBasicMarket.Domain.csproj": {
+                "projectPath": "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Domain\\SadeghiBasicMarket.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Common\\SadeghiBasicMarket.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Common\\SadeghiBasicMarket.Common.csproj",
+        "projectName": "SadeghiBasicMarket.Common",
+        "projectPath": "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Common\\SadeghiBasicMarket.Common.csproj",
+        "packagesPath": "C:\\Users\\hosseinsa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hosseinsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Domain\\SadeghiBasicMarket.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Domain\\SadeghiBasicMarket.Domain.csproj",
+        "projectName": "SadeghiBasicMarket.Domain",
+        "projectPath": "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Domain\\SadeghiBasicMarket.Domain.csproj",
+        "packagesPath": "C:\\Users\\hosseinsa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hosseinsa\\source\\repos\\SadeghiBasicMarket\\SadeghiBasicMarket.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hosseinsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

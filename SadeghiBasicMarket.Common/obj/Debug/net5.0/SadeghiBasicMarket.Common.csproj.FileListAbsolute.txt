@@ -1,0 +1,12 @@
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Common\bin\Debug\net5.0\SadeghiBasicMarket.Common.deps.json
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Common\bin\Debug\net5.0\SadeghiBasicMarket.Common.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Common\bin\Debug\net5.0\ref\SadeghiBasicMarket.Common.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Common\bin\Debug\net5.0\SadeghiBasicMarket.Common.pdb
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Common\obj\Debug\net5.0\SadeghiBasicMarket.Common.csproj.AssemblyReference.cache
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Common\obj\Debug\net5.0\SadeghiBasicMarket.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Common\obj\Debug\net5.0\SadeghiBasicMarket.Common.AssemblyInfoInputs.cache
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Common\obj\Debug\net5.0\SadeghiBasicMarket.Common.AssemblyInfo.cs
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Common\obj\Debug\net5.0\SadeghiBasicMarket.Common.csproj.CoreCompileInputs.cache
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Common\obj\Debug\net5.0\SadeghiBasicMarket.Common.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Common\obj\Debug\net5.0\ref\SadeghiBasicMarket.Common.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Common\obj\Debug\net5.0\SadeghiBasicMarket.Common.pdb

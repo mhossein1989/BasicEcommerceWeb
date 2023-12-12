@@ -1,0 +1,12 @@
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Domain\bin\Debug\net5.0\SadeghiBasicMarket.Domain.deps.json
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Domain\bin\Debug\net5.0\SadeghiBasicMarket.Domain.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Domain\bin\Debug\net5.0\ref\SadeghiBasicMarket.Domain.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Domain\bin\Debug\net5.0\SadeghiBasicMarket.Domain.pdb
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Domain\obj\Debug\net5.0\SadeghiBasicMarket.Domain.csproj.AssemblyReference.cache
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Domain\obj\Debug\net5.0\SadeghiBasicMarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Domain\obj\Debug\net5.0\SadeghiBasicMarket.Domain.AssemblyInfoInputs.cache
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Domain\obj\Debug\net5.0\SadeghiBasicMarket.Domain.AssemblyInfo.cs
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Domain\obj\Debug\net5.0\SadeghiBasicMarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Domain\obj\Debug\net5.0\SadeghiBasicMarket.Domain.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Domain\obj\Debug\net5.0\ref\SadeghiBasicMarket.Domain.dll
+C:\Users\hosseinsa\source\repos\SadeghiBasicMarket\SadeghiBasicMarket.Domain\obj\Debug\net5.0\SadeghiBasicMarket.Domain.pdb

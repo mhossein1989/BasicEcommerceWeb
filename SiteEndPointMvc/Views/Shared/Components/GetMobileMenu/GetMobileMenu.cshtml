@@ -1,0 +1,53 @@
+﻿@using SadeghiBasicMarket.Application.Services.Queries.GetMobileMenuItem;
+@model List<MobileMenuItemDto>
+@{
+    Layout = null;
+}
+   <nav class="sidebar">
+                    <div class="nav-header">
+                        <div class="header-cover"></div>
+                        <div class="logo-wrap">
+                            <a class="logo-icon" href="#"><img alt="logo-icon" src="~/SiteTheme/assets/images/logo.png" width="40"></a>
+                        </div>
+                    </div>
+
+                    <ul class="nav-categories ul-base">
+
+                        @foreach (var item in Model){                         
+                                 <li>
+                            <a href="#" class="collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne"><i class="mdi mdi-chevron-down"></i> @item.Name </a>
+                            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample" style="">
+                                 @if (item.Child.Count() > 0){
+                                <ul>
+                                     @foreach (var itemChild in item.Child)  {
+                                    <li class="has-sub">
+                                        <a href="~/products/index?CatId=@itemChild.CatId" class="category-level-2">@itemChild.Name</a>
+                                         @if (itemChild.Child.Count() > 0){
+                                               <ul>
+                                                   @foreach (var itemChildChild in itemChild.Child){
+                                                       <li><a href="~/products/index?CatId=@itemChildChild.CatId" class="category-level-3">@itemChildChild.Name</a></li>
+                                                   }
+                                                                                              
+                                        </ul>
+                                         }
+                                      
+                                    </li>
+                                   }
+                                </ul>
+                                }
+                            </div>
+                        </li>
+                        }
+
+                    </ul>
+
+
+                </nav>
+
+
+                <div class="nav-btn nav-slider">
+                    <span class="linee1"></span>
+                    <span class="linee2"></span>
+                    <span class="linee3"></span>
+                </div>
+                <div class="overlay"></div>
